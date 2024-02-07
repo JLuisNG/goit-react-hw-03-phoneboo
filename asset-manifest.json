@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-phonebook/static/css/main.ab1b9433.css",
+    "main.css": "/goit-react-hw-02-phonebook/static/css/main.688ac5ed.css",
     "main.js": "/goit-react-hw-02-phonebook/static/js/main.fd85da34.js",
-    "static/media/olas-en-la-orilla-del-mar_5120x2880_xtrafondos.com.jpg": "/goit-react-hw-02-phonebook/static/media/olas-en-la-orilla-del-mar_5120x2880_xtrafondos.com.b4304520b606e6eecf16.jpg",
     "index.html": "/goit-react-hw-02-phonebook/index.html",
-    "main.ab1b9433.css.map": "/goit-react-hw-02-phonebook/static/css/main.ab1b9433.css.map",
+    "main.688ac5ed.css.map": "/goit-react-hw-02-phonebook/static/css/main.688ac5ed.css.map",
     "main.fd85da34.js.map": "/goit-react-hw-02-phonebook/static/js/main.fd85da34.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab1b9433.css",
+    "static/css/main.688ac5ed.css",
     "static/js/main.fd85da34.js"
   ]
 }
